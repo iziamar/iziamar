@@ -30,8 +30,7 @@ I'm a Computer Science and Entrepreneurial Business student passionate about bui
 - I'm always down for a hackathon, a game jam, or a UI mockup session
 
 ## 📫 Let’s Connect
-- [📎 LinkedIn](https://linkedin.com/in/amarakmarx)
-- [💻 Portfolio](https://github.com/iziamar)  
+- [📎 LinkedIn](https://linkedin.com/in/amarakmarx) 
 - ✉️ amarakrizia@gmail.com
 
 ---
