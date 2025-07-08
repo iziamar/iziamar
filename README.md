@@ -35,4 +35,4 @@ I'm a Computer Science and Entrepreneurial Business student passionate about bui
 
 ---
 
-_"I don't just build things—I build things that matter."_ ✨
+_"I don't just build things, I build things that matter."_ ✨
