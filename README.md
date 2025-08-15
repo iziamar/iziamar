@@ -14,7 +14,8 @@ I'm a Computer Science and Entrepreneurial Business student passionate about bui
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iziamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧩 Projects
-- 🎲 **Solanum Meadows** – Unity game jam winner with custom dialogue & day/night systems  
+- 🎲 **Solanum Meadows** – Unity game jam winner with custom dialogue & day/night systems
+- 🧠 **Mood Trace** - AI vs HI website that turns users creative expresions into sanitized AI blocks of text
 - 📚 **BookNook** – Responsive site for used books, built with JS, HTML/CSS & Figma  
 - 🕹️ **Doodle Jump Clone** – Vanilla JS platformer made in VS Code  
 - 📈 **Algorithms & Data Structures Repo** – My deep dive into sorting, trees, graphs, & DP
