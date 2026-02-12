@@ -3,7 +3,7 @@
 I'm a Computer Science and Entrepreneurial Business student passionate about building thoughtful, user-centered technology. From cozy games to AI experiments to full-stack web apps, I love blending creativity with technical precision to make ideas come to life.
 
 ## 💻 What I Do
-- 🧠 Software Engineering Intern @ Medtronic (2025)
+- 🧠 Software Engineering Intern @ Medtronic
 - 💡 Founder & Instructor at Tech4Everyone — teaching kids to code through games & web dev
 - 🎮 Game Jam Dev — Awarded **Unity Choice Award** for *Solanum Meadows*
 - 🌐 Web Dev — Designed & built *BookNook*, a responsive used-book marketplace
