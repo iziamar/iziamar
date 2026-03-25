@@ -5,6 +5,7 @@ I'm a Computer Science and Entrepreneurial Business student passionate about bui
 ## 💻 What I Do
 - 🧠 Software Engineering Intern @ Medtronic
 - 💡 Founder & Instructor at Tech4Everyone — teaching kids to code through games & web dev
+- 🌱 Digital Director of DesignU 
 - 🎮 Game Jam Dev — Awarded **Unity Choice Award** for *Solanum Meadows*
 - 🌐 Web Dev — Designed & built *BookNook*, a responsive used-book marketplace
 
