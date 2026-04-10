@@ -17,7 +17,7 @@ I'm a Computer Science and Entrepreneurial Business student passionate about bui
 - 🧠 **Mood Trace** - AI vs HI website that turns users creative expresions into sanitized AI blocks of text
 - 📚 **BookNook** – Responsive site for used books, built with JS, HTML/CSS & Figma  
 - 🕹️ **Doodle Jump Clone** – Vanilla JS platformer made in VS Code  
-- 📈 **Algorithms & Data Structures Repo** – My deep dive into sorting, trees, graphs, & DP
+- 📈 **Algorithms & Data Structures Repo** – My deep dive into sorting, trees, graphs, & DS
 
 ## 🌱 Currently Learning
 - How to integrate LLMs into real-world tools
